@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy==1.19.5
+pandas==1.1.5
+matplotlib==3.2.2
+sklearn
+flask
